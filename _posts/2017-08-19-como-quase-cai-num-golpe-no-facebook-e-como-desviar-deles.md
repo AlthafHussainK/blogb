@@ -2,7 +2,7 @@
 layout: post
 title: "Como quase cai num golpe no Facebook e como desviar deles"
 date: 2017-09-10 12:26:40
-image: 'https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/20729323_237368506785092_1589085893344493537_n.jpg?oh=1daacf532c20ed09a64aabb5389d7376&oe=5A845169'
+image: 'http://cjdellatore.com/wp-content/uploads/2012/09/5221596851_b9fcf0e472_o-800x400.jpg'
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: 'life'
 tags:
