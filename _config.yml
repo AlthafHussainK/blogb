@@ -1,7 +1,7 @@
 # Site Settings
 title: Walker's Notes
-email: youremail@xyz.com
-description: Some text about your blog.
+email: althafakm@gmail.com
+description: Messed up thoughts.
 baseurl: "/blogb" # the subpath of your site, e.g. /blog
 url: "https://althafhussaink.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
