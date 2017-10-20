@@ -1,5 +1,5 @@
 # Jekflix Template
-![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+
 
 See the [demo here](https://www.rossener.com/jekflix-template).
 
@@ -7,7 +7,6 @@ See the [demo here](https://www.rossener.com/jekflix-template).
 
 A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance ;)
 
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
 
 ## Features
 
