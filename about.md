@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Althaf Hussain K">
+<img itemprop="image" class="img-rounded" src="https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ.png" alt="Althaf Hussain K">
 
 ## About
 
