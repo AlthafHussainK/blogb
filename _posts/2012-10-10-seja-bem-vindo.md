@@ -2,7 +2,6 @@
 layout: post
 title: "Seja bem-vindo"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: ''
 category: 'blog'
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
